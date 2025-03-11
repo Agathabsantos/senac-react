@@ -26,8 +26,6 @@ Estilize ambos no arquivo .css
 Dica: Utilize Date()
 2 - Crie um componente que renderize três botões que recebam props para mudar seu
 texto e sua cor 
-
-
 3 - Crie uma lista não ordenada de um array simples
 4 – Crie uma lista não ordenada de um array de objetos, e mostre pelo menos duas propriedades
 dele na tela
